@@ -1,0 +1,5 @@
+requests
+wget
+shutils
+beautifulsoup4
+argparse
