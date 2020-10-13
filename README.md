@@ -25,5 +25,7 @@ buka command prompt atau terminal, dan jalankan perintah ini pada command prompt
 
 1. git clone https://github.com/riceeater-id/merek
 2. cd merek
-3. pip install -r requirements.txt
-4. python main.py "merek kamu" 0
+3. cd scripts
+4. activate
+5. pip install -r requirements.txt
+6. python main.py "merek kamu" 0
