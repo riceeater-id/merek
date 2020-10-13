@@ -27,5 +27,6 @@ buka command prompt atau terminal, dan jalankan perintah ini pada command prompt
 2. cd merek
 3. cd scripts
 4. activate
-5. pip install -r requirements.txt
-6. python main.py "merek kamu" 0
+5. cd ..
+6. pip install -r requirements.txt
+7. python main.py "merek kamu" 0
