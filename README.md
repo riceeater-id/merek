@@ -15,7 +15,8 @@ Internet
 
 Cara Pakainya
 
-1. Clone repositori ini c:\>git clone https://github.com/riceeater-id/merek
+Windows
+1. c:\>git clone https://github.com/riceeater-id/merek
 2. c:\>cd merek
 3. c:\>pip install -r requirements.txt
 4. c:\>python main.py "merek kamu" 0
