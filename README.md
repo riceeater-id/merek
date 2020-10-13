@@ -15,8 +15,10 @@ Internet
 
 Cara Pakainya
 
-Windows
-1. c:\>git clone https://github.com/riceeater-id/merek
-2. c:\>cd merek
-3. c:\>pip install -r requirements.txt
-4. c:\>python main.py "merek kamu" 0
+windows / mac / linux
+buka command prompt atau terminal, dan jalankan perintah ini pada command prompt / terminal
+
+1. git clone https://github.com/riceeater-id/merek
+2. cd merek
+3. pip install -r requirements.txt
+4. python main.py "merek kamu" 0
