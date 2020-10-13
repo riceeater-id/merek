@@ -1,8 +1,13 @@
 # MEREK
 
-Aplikasi sederhana untuk memudahkan kamu mencari / menganalis merek yang kamu mau daftarkan 
+Aplikasi sederhana untuk memudahkan kamu mencari / menganalisa merek yang kamu mau daftarkan 
 karena kalau sudah dipakai orang lain, pendaftaran merek kita akan di tolak, dan 
 uang pendaftaran 1.8jt  sudah tidak bisa kembali :)
+
+Latar Belakang Masalah (kyk skripsi ya gaeesss)
+-----------------------------------------------
+Susah bener untuk pastiin merek kita belum dipakai orang lain ketika kita cari 
+menggunakan website nya HAKI
 
 Dukungan OS:
 Mac
